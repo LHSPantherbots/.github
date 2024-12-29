@@ -6,11 +6,13 @@
 + [WPILib Documentation](https://docs.wpilib.org/es/latest/docs/yearly-overview/yearly-changelog.html)  
 + [REV Library](https://docs.revrobotics.com/ion-control-system/sw/revlib)  
 + [CTRE Library](https://api.ctr-electronics.com/phoenix6/release/java/)  
-+ [Path Planner Documentation](https://pathplanner.dev/home.html)  
++ [Path Planner Documentation](https://pathplanner.dev/home.html)
++ [PhotonVision Documentation](https://docs.photonvision.org/en/latest/index.html)
 + [Best Practices for Our Repositories](https://github.com/LHSPantherbots/.github/wiki)  
 + [Spectrum 3874](https://github.com/Spectrum3847) (they have great resources and readable code)
-## Mentors and Team Leads
+## Programming Mentors and Team Leads
 + Cody - [codytrey](https://github.com/codytrey)
++ Chad - [chad03](https://github.com/chadr03)
 + Hayden - [itsme-hayden](https://github.com/itsme-hayden)
 + Patrick - [Wider260](https://github.com/Wider260)
 + Kiahley - [KiahV](https://github.com/KiahV)
