@@ -21,8 +21,8 @@
 ![image](https://github.com/user-attachments/assets/05317eff-e030-4c07-9382-5b1f77802410 | width=100)
 -->
 
-<img src="https://github.com/user-attachments/assets/4d42041b-77b8-4ccc-8b76-dea5d8276ba8" width="250">
-<img src="https://github.com/user-attachments/assets/05317eff-e030-4c07-9382-5b1f77802410" width="250">
+<img src="https://github.com/user-attachments/assets/4d42041b-77b8-4ccc-8b76-dea5d8276ba8" width="175">
+<img src="https://github.com/user-attachments/assets/05317eff-e030-4c07-9382-5b1f77802410" width="175">
 
 <!--
 
